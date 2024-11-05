@@ -1,4 +1,5 @@
 _____VERY LOW BAN RATE!!!_____
+![showcase1](screenshots/showcase1.jpg)
 
 
 __INSTRUCTIONS FOR USE__ </br>
@@ -50,6 +51,12 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
    - Start **Call of Duty** and enjoy the enhanced features!
 
 ---
+![wzvictory](screenshots/victory.png)
+![showcase3](screenshots/showcase3.png)
+![showcase5](screenshots/showcase5.png)
+![showcase4](screenshots/showcase4.png)
+![showcase2](screenshots/showcase2.png)
+![showcase1](screenshots/showcase1.png)
 
 ## Features
 
