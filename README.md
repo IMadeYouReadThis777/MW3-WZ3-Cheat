@@ -1,5 +1,5 @@
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___
-![showcase1](screenshots/showcase1.jpg)
+![showcase1](screenshots/showcase1.png)
 
 __INSTRUCTIONS FOR USE__ </br>
 ___> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.___
