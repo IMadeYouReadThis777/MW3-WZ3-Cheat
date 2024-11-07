@@ -1,5 +1,5 @@
 _____VERY LOW BAN RATE!!!_____
-![showcase1](screenshots/showcase1.jpg)
+![showcase1](screenshots/showcase1.png)
 
 
 __INSTRUCTIONS FOR USE__ </br>
